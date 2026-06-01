@@ -107,3 +107,15 @@ Trạng thái: Hoàn thành
 
 File liên quan:
 - Data/AppDbContext.cs
+
+## Bước 8 - Cấu hình SQLite connection string
+
+Trạng thái: Hoàn thành
+
+Đã làm:
+- Sửa file App.config
+- Thêm connection string tên WorkProgressDb
+- Database file: work_progress.db
+
+File liên quan:
+- App.config
