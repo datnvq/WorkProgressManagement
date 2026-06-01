@@ -70,3 +70,27 @@ Lý do:
 - Project đang dùng .NET Framework 4.8.
 - EF Core version mới không tương thích với .NET Framework 4.8.
 - Entity Framework 6 phù hợp hơn với WPF .NET Framework.
+
+## Bước 5 - Tạo model Project
+
+Trạng thái: Hoàn thành
+
+Đã làm:
+- Tạo file Models/Project.cs
+- Khai báo model Project
+- Thiết lập quan hệ một-nhiều với WorkTask
+
+File liên quan:
+- Models/Project.cs
+
+## Bước 6 - Tạo model WorkTask
+
+Trạng thái: Hoàn thành
+
+Đã làm:
+- Tạo file Models/WorkTask.cs
+- Thiết lập khóa ngoại ProjectId
+- Thiết lập quan hệ với Project
+
+File liên quan:
+- Models/WorkTask.cs
