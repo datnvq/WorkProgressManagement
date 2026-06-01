@@ -94,3 +94,16 @@ Trạng thái: Hoàn thành
 
 File liên quan:
 - Models/WorkTask.cs
+
+## Bước 7 - Tạo AppDbContext
+
+Trạng thái: Hoàn thành
+
+Đã làm:
+- Tạo file Data/AppDbContext.cs
+- Khai báo DbSet Projects
+- Khai báo DbSet WorkTasks
+- Chuẩn bị kết nối database bằng tên WorkProgressDb
+
+File liên quan:
+- Data/AppDbContext.cs
