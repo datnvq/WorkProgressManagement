@@ -55,3 +55,18 @@ Trạng thái: Hoàn thành
 - Tạo folder Views
 - Tạo folder ViewModels
 - Tạo folder Resources
+
+## Bước 4 - Cài Entity Framework 6 cho WPF .NET Framework
+
+Trạng thái: Hoàn thành
+
+Đã làm:
+- Không dùng Entity Framework Core vì project là WPF App (.NET Framework).
+- Cài EntityFramework 6.5.1.
+- Cài System.Data.SQLite.
+- Cài System.Data.SQLite.EF6.
+
+Lý do:
+- Project đang dùng .NET Framework 4.8.
+- EF Core version mới không tương thích với .NET Framework 4.8.
+- Entity Framework 6 phù hợp hơn với WPF .NET Framework.
