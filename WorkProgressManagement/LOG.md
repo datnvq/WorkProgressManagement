@@ -44,3 +44,14 @@ Cần làm:
 
 File liên quan:
 - LOG.md
+
+## Bước 3 - Tạo cấu trúc thư mục
+Trạng thái: Hoàn thành
+
+Đã làm:
+- Tạo folder Data
+- Tạo folder Models
+- Tạo folder Services
+- Tạo folder Views
+- Tạo folder ViewModels
+- Tạo folder Resources
